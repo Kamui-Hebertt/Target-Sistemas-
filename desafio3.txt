@@ -1,0 +1,33 @@
+Na questão a) 1, 3, 5, 7, ___", o próximo número é 9. A sequência aumenta
+ de 2 em 2, adicionando sempre o
+ próximo número ímpar. Portanto, o próximo número após 7 é 9.
+
+
+ Na questão b) 2, 4, 8, 16, 32, 64, ____", o próximo número é 128.
+  A sequência dobra em cada termo, ou seja, é uma sequência de potências de 2. então, 
+ o próximo número após 64 é 128, que é o resultado de dobrar 64.
+
+
+Na questão c) 0, 1, 4, 9, 16, 25, 36, ____", o próximo número é 49.
+ A sequência é o quadrado dos números inteiros de 0 a n, onde n é a posição do termo na sequência,
+ o próximo número após 36 é 49, que é o quadrado de 7.
+
+
+Na questão d) 4, 16, 36, 64, ____", o próximo número é 100.
+ A sequência é o quadrado dos números pares de 2 a n, onde n é a posição do termo na sequência.
+  Portanto,
+ o próximo número após 64 é 100, que é o quadrado de 10.
+
+
+
+ Na questão e) 1, 1, 2, 3, 5, 8, ____", o próximo número é 13. A sequência é a soma
+  dos dois termos anteriores, onde os dois primeiros termos são 1, 1.
+  nessa caso, o próximo número após 8 é 13, que é a soma de 5 e 8.
+
+
+  Na questão f) 2, 10, 12, 16, 17, 18, 19, ____", o próximo número é 20.
+   A sequência possui alguns números sequenciais, seguidos por uma mudança de padrão.
+    A sequência começa com alguns números consecutivos (2, 10, 12, 16),
+     depois há uma mudança no padrão com números não consecutivos (17, 18, 19),
+      e o próximo número após 19 é 20, seguindo o padrão de aumento sequencial novamente.
+   então, o próximo número na sequência é 20.

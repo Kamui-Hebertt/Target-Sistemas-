@@ -1,0 +1,13 @@
+Para a questão 4,
+
+ o veículo que estará mais próximo da cidade de Ribeirão Preto é o carro,
+ que está se deslocando de Ribeirão Preto em direção a Franca a
+  uma velocidade constante de 110 km/h.
+
+A distância entre Ribeirão Preto e Franca é de 100 km, conforme indicado na questão.
+ Como o carro e o caminhão estão se aproximando um do outro em direções opostas, eles se encontrarão 
+ no meio do caminho, ou seja, a uma distância de 50 km de cada cidade.
+
+Considerando que o carro está se deslocando a 110 km/h e o caminhão a 80 km/h,
+ o carro chegará primeiro ao ponto de encontro, uma vez que está se movendo a uma velocidade maior. 
+ Portanto, o carro estará mais próximo da cidade de Ribeirão Preto quando se cruzarem na rodovia.
